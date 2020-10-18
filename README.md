@@ -1,0 +1,1 @@
+This repository is for my CodeWars Solutions
